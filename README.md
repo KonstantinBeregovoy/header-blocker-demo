@@ -2,8 +2,6 @@
 
 A sticky header that appears to change its background color while you scroll. Pure CSS, no scroll listeners.
 
-Technique by Josh W. Comeau: https://www.joshwcomeau.com/css/header-blockers/
-
 ## How it works
 
 - The header is `position: fixed` and always transparent.
